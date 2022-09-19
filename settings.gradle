@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Loose"
 include ':app'
+include ':core-database'
+include ':core-network'
+include ':feature-onboarding'
+include ':feature-tracker'
